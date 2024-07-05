@@ -1,0 +1,15 @@
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\bin\Debug\Currency exchange.exe.config
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\bin\Debug\Currency exchange.exe
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\bin\Debug\Currency exchange.pdb
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\bin\Debug\Currency exchange.xml
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\obj\Debug\Currency exchange.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\obj\Debug\Currency_exchange.Form1.resources
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\obj\Debug\Currency_exchange.Resources.resources
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\obj\Debug\Currency exchange.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\obj\Debug\Currency exchange.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\obj\Debug\Currency exchange.vbproj.CopyComplete
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\obj\Debug\Currency exchange.exe
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\obj\Debug\Currency exchange.xml
+C:\Users\MONSTERMC\source\repos\Currency exchange\Currency exchange\obj\Debug\Currency exchange.pdb
